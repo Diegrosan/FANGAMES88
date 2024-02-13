@@ -5,6 +5,7 @@
     <versao>ultima</versao>
     <url>https://sfz3mix.github.io/download/sfz3mix.7z</url>
     <plataforma>cps2</plataforma>
+    <patched>true</patched>
     <ativo>true</ativo>
   </jogo>
   <jogo>
@@ -12,6 +13,7 @@
     <versao>26</versao>
     <plataforma>cps2</plataforma>
     <url>https://sfz3mix.github.io/download/0.26/sfz3mix.7z</url>
+    <patched>true</patched>
     <ativo>true</ativo>
   </jogo>
   <jogo>
@@ -19,6 +21,7 @@
     <versao>25</versao>
     <plataforma>cps2</plataforma>
     <url>https://sfz3mix.github.io/download/0.25/sfz3mix.7z</url>
+    <patched>true</patched>
     <ativo>true</ativo>
   </jogo>
   <jogo>
@@ -26,6 +29,7 @@
     <versao>24</versao>
     <plataforma>cps2</plataforma>
     <url>https://sfz3mix.github.io/download/0.24/sfz3mix.7z</url>
+    <patched>true</patched>
     <ativo>true</ativo>
   </jogo>
   <jogo>
@@ -33,6 +37,7 @@
     <versao>ultima</versao>
     <plataforma>cps1</plataforma>
     <url>https://sf2mix.github.io/downloads/sf2mix.zip</url>
+    <patched>true</patched>
     <ativo>true</ativo>
   </jogo>
   <jogo>
@@ -40,6 +45,7 @@
     <versao>1.2</versao>
     <plataforma>cps1</plataforma>
     <url>https://sf2mix.github.io/downloads/1.2/sf2mix.zip</url>
+    <patched>true</patched>
     <ativo>true</ativo>
   </jogo>
 </jogos>
