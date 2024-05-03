@@ -25,11 +25,11 @@
     <ativo>true</ativo>
   </jogo>
   <jogo>
-    <nome>Street Fighter Zero 3 Mix</nome>
-    <versao>24</versao>
-    <plataforma>cps2</plataforma>
-    <url>https://sfz3mix.github.io/download/0.24/sfz3mix.7z</url>
-    <patched>true</patched>
+    <nome>Sᴛʀᴇᴇᴛ Fɪɢʜᴛᴇʀ 2 Special Cʜᴀᴍᴘɪᴏɴ Eᴅɪᴛɪᴏɴ 2024 : Versão Definitiva by Sr Street Fighter</nome>
+    <versao>1.4</versao>
+    <plataforma>cps1</plataforma>
+    <url>https://github.com/Diegrosan/-Streeet-Fighter-2-Especial-Champion-Edition-By-Sr-Street-Fighter/raw/main/sf2hfsce.zip</url>
+    <patched>false</patched>
     <ativo>true</ativo>
   </jogo>
   <jogo>
