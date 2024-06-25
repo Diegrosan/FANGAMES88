@@ -56,4 +56,12 @@
     <patched>false</patched>
     <ativo>true</ativo>
   </jogo>
+  <jogo>
+    <nome>Metal Slug [DN 3.0][OG]</nome>
+    <versao>3.0</versao>
+    <plataforma>dreamcast</plataforma>
+    <url>https://archive.org/download/dn-3.0-neo-turf-masters/Metal%20Slug%20%5BDN%203.0%5D%5BOG%5D.cdi</url>
+    <patched>false</patched>
+    <ativo>true</ativo>
+  </jogo>
 </jogos>
