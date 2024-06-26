@@ -6,7 +6,7 @@
     <url>https://sfz3mix.github.io/download/sfz3mix.7z</url>
     <plataforma>cps2</plataforma>
     <patched>false</patched>
-    <extension></extension>
+    <extension>false</extension>
     <ativo>true</ativo>
   </jogo>
   <jogo>
@@ -15,7 +15,7 @@
     <plataforma>cps2</plataforma>
     <url>https://sfz3mix.github.io/download/0.26/sfz3mix.7z</url>
     <patched>false</patched>
-    <extension></extension>
+    <extension>false</extension>
     <ativo>true</ativo>
   </jogo>
   <jogo>
@@ -24,7 +24,7 @@
     <plataforma>cps2</plataforma>
     <url>https://sfz3mix.github.io/download/0.25/sfz3mix.7z</url>
     <patched>false</patched>
-    <extension></extension>
+    <extension>false</extension>
     <ativo>true</ativo>
   </jogo>
   <jogo>
@@ -33,7 +33,7 @@
     <plataforma>cps1</plataforma>
     <url>https://github.com/Diegrosan/-Streeet-Fighter-2-Especial-Champion-Edition-By-Sr-Street-Fighter/raw/main/sf2hfsce.zip</url>
     <patched>false</patched>
-    <extension></extension>
+    <extension>false</extension>
     <ativo>true</ativo>
   </jogo>
   <jogo>
@@ -42,7 +42,7 @@
     <plataforma>cps1</plataforma>
     <url>https://sf2mix.github.io/downloads/sf2mix.zip</url>
     <patched>false</patched>
-    <extension></extension>
+    <extension>false</extension>
     <ativo>true</ativo>
   </jogo>
   <jogo>
@@ -60,7 +60,7 @@
     <plataforma>openbor</plataforma>
     <url>https://github.com/Diegrosan/Final-Fight-LNS-Ultimate/releases/download/FFLNSUltimateV04/Final_Fight_LNS.pak</url>
     <patched>false</patched>
-    <extension></extension>
+    <extension>false</extension>
     <ativo>true</ativo>
   </jogo>
   <jogo>
@@ -70,6 +70,15 @@
     <url>https://archive.org/download/dn-3.0-neo-turf-masters/Metal%20Slug%20%5BDN%203.0%5D%5BOG%5D.cdi</url>
     <patched>false</patched>
     <extension>Metal Slug [DN 3.0][OG].cdi</extension>
+    <ativo>true</ativo>
+  </jogo>
+  <jogo>
+    <nome>Controller Test</nome>
+    <versao>1.0</versao>
+    <plataforma>snes</plataforma>
+    <url>https://archive.org/download/controller-test/Controller%20Test.smc</url>
+    <patched>false</patched>
+    <extension>Controller Test.smc</extension>
     <ativo>true</ativo>
   </jogo>
 </jogos>
