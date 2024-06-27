@@ -30,10 +30,10 @@
     <ativo>true</ativo>
   </jogo>
   <jogo>
-    <nome>Sᴛʀᴇᴇᴛ Fɪɢʜᴛᴇʀ 2 Special Cʜᴀᴍᴘɪᴏɴ Eᴅɪᴛɪᴏɴ 2024 : Versão Definitiva by Sr Street Fighter</nome>
+    <nome>Sᴛʀᴇᴇᴛ Fɪɢʜᴛᴇʀ 2 Special Cʜᴀᴍᴘɪᴏɴ Eᴅɪᴛɪᴏɴ 2024 by Sr Street Fighter</nome>
     <versao>1.4</versao>
     <plataforma>cps1</plataforma>
-    <url>https://github.com/Diegrosan/-Streeet-Fighter-2-Especial-Champion-Edition-By-Sr-Street-Fighter/raw/main/sf2hfsce.zip</url>
+    <url>https://archive.org/download/fangames-fbneo/sf2hfsce.zip</url>
     <patched>false</patched>
     <extension>false</extension>
     <extraction>false</extraction>
@@ -58,7 +58,7 @@
     <extraction>false</extraction>
     <ativo>true</ativo>
   </jogo>
-    <jogo>
+  <jogo>
     <nome>Final Fight LNS Ultimate</nome>
     <versao>0.4</versao>
     <plataforma>openbor</plataforma>
@@ -89,12 +89,12 @@
     <ativo>true</ativo>
   </jogo>
   <jogo>
-    <nome>Shien's Revenge (USA) (Beta)</nome>
+    <nome>Street Fighter II: Champion Edition Practice Mode</nome>
     <versao>1.0</versao>
-    <plataforma>snes</plataforma>
-    <url>https://archive.org/download/no-intro-nintendo-super-nintendo-entertainment-system-20170529/No-Intro%20-%20Nintendo%20-%20Super%20Nintendo%20Entertainment%20System%20%282017-05-29%29.zip/Shien%27s%20Revenge%20%28USA%29%20%28Beta%29.zip</url>
+    <plataforma>cps1</plataforma>
+    <url>https://archive.org/download/fangames-fbneo/sf2ce%20PracticeMode.zip</url>
     <patched>false</patched>
-    <extension>Shien's Revenge (USA) (Beta).zip</extension>
+    <extension>sf2ce PracticeMode.zip</extension>
     <extraction>true</extraction>
     <ativo>true</ativo>
   </jogo>
