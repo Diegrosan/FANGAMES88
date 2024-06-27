@@ -1,6 +1,16 @@
 <!-- 2024-present DiegroSan -->
 <jogos>
   <jogo>
+    <nome>Exit, Sair. salir</nome>
+    <versao></versao>
+    <url></url>
+    <plataforma></plataforma>
+    <patched>false</patched>
+    <extension>false</extension>
+    <extraction>false</extraction>
+    <ativo>true</ativo>
+  </jogo>
+  <jogo>
     <nome>Street Fighter Zero 3 Mix</nome>
     <versao>ultima</versao>
     <url>https://sfz3mix.github.io/download/sfz3mix.7z</url>
