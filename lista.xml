@@ -3,7 +3,7 @@
   <jogo>
     <nome>Exit, Sair. salir</nome>
     <versao></versao>
-    <url>Sair</url>
+    <url>sair</url>
     <plataforma>Sair</plataforma>
     <patched>false</patched>
     <extension>false</extension>
